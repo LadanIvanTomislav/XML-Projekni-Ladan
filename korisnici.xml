@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<korisnici>
+	<korisnik>
+		<korisnicko_ime>Žutokljunac82</korisnicko_ime>
+		<lozinka>1</lozinka>
+	</korisnik>
+
+	<korisnik>
+		<korisnicko_ime>Snijegovic12</korisnicko_ime>
+		<lozinka>2</lozinka>
+	</korisnik>
+
+    <korisnik>
+		<korisnicko_ime>MudracTVZ</korisnicko_ime>
+		<lozinka>3</lozinka>
+	</korisnik>
+
+    <korisnik>
+		<korisnicko_ime>mrtav_ladan</korisnicko_ime>
+		<lozinka>4</lozinka>
+	</korisnik>
+</korisnici>

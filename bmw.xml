@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<automobil>
+	<detalji>
+		<marka>BMW</marka>
+        <model>serija 3</model>
+        <lokacija>Zagreb, Maksimir, Ravnice</lokacija>
+        <godina_proizvodnje>2012</godina_proizvodnje>
+        <kilometraza>210 000km</kilometraza>
+        <registracija>1.11.2023.</registracija>
+        <snaga>130kW</snaga>
+        <mjenjac>Automatski sekvencijski</mjenjac>
+        <potrosnja>6l/100km</potrosnja>
+        <vlasnik>drugi</vlasnik>
+        <cijena>13.999 EUR</cijena>
+	</detalji>
+</automobil>

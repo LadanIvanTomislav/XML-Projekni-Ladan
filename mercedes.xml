@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<automobil>
+	<detalji>
+		<marka>Mercedes-Benz</marka>
+        <model>S klasa</model>
+        <lokacija>Primorsko-goranska, Matulji</lokacija>
+        <godina_proizvodnje>2008</godina_proizvodnje>
+        <kilometraza>246 000km</kilometraza>
+        <registracija>3.3.2024.</registracija>
+        <snaga>173kW</snaga>
+        <mjenjac>Automatski sekvencijski</mjenjac>
+        <potrosnja>7l/100km</potrosnja>
+        <vlasnik>treći</vlasnik>
+        <cijena>15.000 EUR</cijena>
+	</detalji>
+</automobil>

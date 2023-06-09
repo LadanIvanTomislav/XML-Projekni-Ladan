@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<automobil>
+	<detalji>
+		<marka>Citroen</marka>
+        <model>C4</model>
+        <lokacija>Zagreb, Centar</lokacija>
+        <godina_proizvodnje>2011</godina_proizvodnje>
+        <kilometraza>155 000km</kilometraza>
+        <registracija>12.7.2023.</registracija>
+        <snaga>68kW</snaga>
+        <mjenjac>Ručni</mjenjac>
+        <potrosnja>5.8l/100km</potrosnja>
+        <vlasnik>prvi</vlasnik>
+        <cijena>5.999 EUR</cijena>
+	</detalji>
+</automobil>

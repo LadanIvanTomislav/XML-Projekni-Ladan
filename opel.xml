@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<automobil>
+	<detalji>
+		<marka>Opel</marka>
+        <model>Astra</model>
+        <lokacija>Novi Zagreb, Zagreb</lokacija>
+        <godina_proizvodnje>2009</godina_proizvodnje>
+        <kilometraza>220 000km</kilometraza>
+        <registracija>11.10.2023.</registracija>
+        <snaga>66kW</snaga>
+        <mjenjac>Ručni</mjenjac>
+        <potrosnja>6.5l/100km</potrosnja>
+        <vlasnik>drugi</vlasnik>
+        <cijena>2.200 EUR</cijena>
+	</detalji>
+</automobil>
